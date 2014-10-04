@@ -12,5 +12,6 @@ TKMetalDetector.cpp is to detect the metal of the robot.
 WildThumperBasicTK.cpp is to drive the Wild Thumper robot by remote control or driving by itself.
 
 [2] A Secure Comprehensive Health-care System: From Design to Implementation
+============================================================================
 This is my individual project for Data and Application for Security.
 >>>>>>> 0c711f8da6abec8ea349cbfb47e8e93b8ca7218c
