@@ -2,9 +2,8 @@ Than's SchoolProjects
 ===================
 This Folder is to keep my utd senior projects.
 
-[1]. Arduino Project
-Arduino_Lib_in_CPP
-==================
+[1]. Arduino Project--> Arduino_Lib_in_CPP
+=======================================
 This part is the sample library for my school Project Written by me [Than Kywe]. From this easy sample, you may easily create your own C++ library for Arduino Project.
 
 TKBlockDetector.cpp is to detect the block of the robot.
