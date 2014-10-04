@@ -13,5 +13,5 @@ WildThumperBasicTK.cpp is to drive the Wild Thumper robot by remote control or d
 
 [2] A Secure Comprehensive Health-care System: From Design to Implementation
 ============================================================================
-This is my individual project for Data and Application for Security.
+This is my individual project for Data and Application for Security. This was written in Java. I use NetBeans 8.0 for this project. Oracle 10g is the Back end database server. 
 >>>>>>> 0c711f8da6abec8ea349cbfb47e8e93b8ca7218c
